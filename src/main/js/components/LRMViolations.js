@@ -28,7 +28,7 @@ export default class LRMViolations extends React.PureComponent {
     return (
 
       <table className="lg_ds_progress_bar" border="0" width="500">
-      <h3>{translate('lingoport.sourceissue')}</h3>
+      <h3>{translate('lingoport.sourceissues')}</h3>
 
       <tbody>
       <p>
